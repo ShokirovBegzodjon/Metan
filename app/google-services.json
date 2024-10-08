@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940993606366",
+    "project_id": "metan-d3990",
+    "storage_bucket": "metan-d3990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940993606366:android:406ea1b04131387c45c84f",
+        "android_client_info": {
+          "package_name": "uz.apphub.metan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI29KlElM5adgkAcoZyvKQbRvZmMGcGu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
